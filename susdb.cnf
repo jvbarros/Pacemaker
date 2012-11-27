@@ -1,0 +1,10 @@
+# this is a comment
+; this is also a comment
+
+
+[susdb]
+user = jacson_barros
+database = susdb
+password = p8z77-v
+host = ec2-50-19-4-203.compute-1.amazonaws.com
+
